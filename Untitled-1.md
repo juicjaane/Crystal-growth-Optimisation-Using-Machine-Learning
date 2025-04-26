@@ -1,0 +1,9 @@
+Analysis of Variance:
+Lower Variance at Higher LPM: The variance in concentration decreases as the LPM increases. This indicates that higher LPM settings lead to more stable concentration levels across the chamber, which is expected as more argon gas can more effectively homogenize the environment.
+Optimal LPM Range: The variance significantly drops as you go from lower to higher LPMs, especially from 6 LPM onward. This suggests that LPM values around and above this range contribute to reducing fluctuations in concentration, hence more stable conditions.
+Analysis of Correlation:
+Higher Correlation at Mid-range LPM: The correlation is highest around 3-6 LPM, indicating a stronger relationship between time and concentration changes in this range. As the LPM increases beyond this, the correlation decreases, which might suggest that at higher flow rates, the system reaches a more steady state where time has less impact on concentration distribution.
+Diminishing Returns at Higher LPM: As the LPM increases beyond 6, the correlation decreases, which aligns with the variance analysis. This could mean that increasing LPM beyond a certain point does not significantly enhance stability or uniformity.
+Implications for Optimization:
+Target LPM Range: Given the drop in variance and the correlation trends, the optimal LPM values might be in the range of 6-8 LPM. This range offers a good balance between maintaining low variance in concentration and achieving reasonable correlation with time, indicating a stable environment.
+Efficiency Considerations: Since one of the project goals is to use the argon gas efficiently, the mid-range LPM values (6-8 LPM) could provide a good compromise between stability and resource usage.

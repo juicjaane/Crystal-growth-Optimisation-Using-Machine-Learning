@@ -1,0 +1,14 @@
+Sheet: 1 lpm, Min: 41.479579, Max: 122.02761
+Sheet: 2 lpm, Min: 18.894216, Max: 71.901291
+Sheet: 3 lpm, Min: 12.040313, Max: 108.15967
+Sheet: 4 lpm, Min: 8.7062824, Max: 41.642826
+Sheet: 5 lpm, Min: 6.7057631, Max: 34.52301
+Sheet: 6 lpm, Min: 5.3432929, Max: 29.445336
+Sheet: 7 lpm, Min: 4.3517734, Max: 25.629205
+Sheet: 8 lpm, Min: 3.5826552, Max: 24.633879
+Sheet: 9 lpm, Min: 2.9857678, Max: 20.244995
+Sheet: 10 lpm, Min: 2.4913638, Max: 19.310849
+Sheet: 11 lpm, Min: 2.0989771, Max: 20.165606
+Sheet: 12 lpm, Min: 1.7588946, Max: 18.395181
+Sheet: 13 lpm, Min: 1.5036046, Max: 16.893636
+Sheet: 14 lpm, Min: 1.3262268, Max: 15.593989
