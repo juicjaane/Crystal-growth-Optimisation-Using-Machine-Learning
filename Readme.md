@@ -90,7 +90,3 @@ Below are sample visuals extracted from the study:
 Conducted as part of a research initiative focused on AI in materials science.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
